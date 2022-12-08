@@ -1,0 +1,8 @@
+data
+saved_models
+.ipynb_checkpoints
+*.docx
+*.tmp
+*.png
+*.pickle
+**/__pycache__
